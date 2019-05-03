@@ -1,4 +1,4 @@
-# chilipie-kiosk
+# garpu dari chilipie-kiosk
 
 Easy-to-use **Raspberry Pi** image for booting directly into **full-screen Chrome**, with built-in convenience features for unattended operation. Perfect for **dashboards and build monitors**.
 
